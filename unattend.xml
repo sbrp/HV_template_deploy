@@ -26,8 +26,8 @@
             xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" 
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
             <ComputerName>DSC_COMPUTERNAME</ComputerName>
-            <RegisteredOrganization>Rob_test</RegisteredOrganization>
-            <RegisteredOwner>Rob_test</RegisteredOwner>
+            <RegisteredOrganization>dsc_test</RegisteredOrganization>
+            <RegisteredOwner>dsc_test</RegisteredOwner>
             <ProductKey>D2N9P-3P6X9-2R39C-7RTCD-MDVJX</ProductKey>
         </component>
     </settings>
