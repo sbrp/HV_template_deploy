@@ -1,0 +1,4 @@
+VMName,NumVCPU,StartupMemoryGB,MinMemoryGB,MaxMemoryGB,Disk2SizeGB,Disk3SizeGB,Disk4SizeGB
+dsc-servertest1,2,2,2,2,2,4,6
+dsc-servertest2,2,2,2,2,2,4,6
+dsc-servertest3,2,2,2,2,2,4,6
